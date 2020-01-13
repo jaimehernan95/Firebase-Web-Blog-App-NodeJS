@@ -1,12 +1,14 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyCOXOVDon5hva7mwAdLNXKXNt1LYKbBBso",
-    authDomain: "blog-app-a780a.firebaseapp.com",
-    databaseURL: "https://blog-app-a780a.firebaseio.com",
-    projectId: "blog-app-a780a",
-    storageBucket: "blog-app-a780a.appspot.com",
-    messagingSenderId: "225191091927",
-    appId: "1:225191091927:web:becdd7a853f7becf849a92",
-    measurementId: "G-L5T8C6K2MZ"
+    
+    1.  *******. here paste your Firebase project from project settings ID and **********
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
   // Initialize Firebase
