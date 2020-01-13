@@ -1,0 +1,25 @@
+{
+  "name": "blog_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/jsindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimehernan95/qcprojectv1.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jaime Hernan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimehernan95/qcprojectv1/issues"
+  },
+  "homepage": "https://github.com/jaimehernan95/qcprojectv1#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
