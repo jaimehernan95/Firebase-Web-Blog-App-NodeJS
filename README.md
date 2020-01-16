@@ -69,7 +69,7 @@ Download your favourite code editor, in this case I use visual code. https://cod
 Create the application
 -------------------- 
 
-O your terminal on yout mac or Command Prompt program navigate to your directory folder project run the following command to create an APP. 
+On your terminal on mac or Command Prompt program navigate to your directory folder project run the following command to create an APP. 
 
 Tyope the command below:
 
