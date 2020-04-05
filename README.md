@@ -3,6 +3,10 @@ About this project
 
 Full Stack Firebase Web Blog App using NodeJs & Firebase - Dynamic Web App & Website Project - Complete Firebase for Web
 
+The website can be accesed from here:
+
+https://blog-app-a780a.firebaseapp.com/signin.html
+
 
 Description
 -----------
