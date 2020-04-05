@@ -1,8 +1,8 @@
 {
-  "name": "blog_app",
+  "name": "public",
   "version": "1.0.0",
   "description": "",
-  "main": "/jsindex.js",
+  "main": "/js/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
