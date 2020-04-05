@@ -1,19 +1,15 @@
-About this project
+# About this project
 ------------------
 
 Full Stack Firebase Web Blog App using NodeJs & Firebase - Dynamic Web App & Website Project - Complete Firebase for Web
 
-The website can be accesed from here:
 
-https://blog-app-a780a.firebaseapp.com/signin.html
-
-
-Description
+# Description
 -----------
 
 A dynamic web app has been created, this is a Blog App using Firebase & Node.Js This blog project includes Firebase Web Authentication ,  Firebase Web Real Time Database , Firebase Web Storage and Firebase Web user Authentication using Firebase Authentication , Firebase Database , Firebase Forget Password and Firebase Reset Password.
 
-What I have learn while developing this blog app
+ # What I have learn while developing this blog app
 ------------------------------------------------
 
 Develod Dynamic Web Blog App using Firebase & NodeJs
@@ -25,15 +21,15 @@ Firebase Signin user and Firebase Signup user using Firebase Authentication
 Firebase Forget Password and Firebase Reset Password.
 
 
-How to start?
+# How to start?
 
-Firebase
+## Firebase
 --------
 Create a firebase account
 Create a new web project <> on firebase and followo the instructions from the following website
 https://console.firebase.google.com/u/0/
 
-Create a new APP
+## Create a new APP
 
 - Firebase Web Authentication 
 select Sign-in method and enable status of  Email/Password option
@@ -48,7 +44,7 @@ select Sign-in method and enable status of  Email/Password option
   }
 }
 
-Node JS
+## Node JS
 ------
 
 Install Node JS and follow the instructions
@@ -64,7 +60,7 @@ https://nodejs.org/en/download/
 node --version
 npm --version 
 
-Visual Code Editor
+## Visual Code Editor
 ----------------
 
 Download your favourite code editor, in this case I use visual code. https://code.visualstudio.com/download
@@ -150,5 +146,10 @@ The entire projects is available in the link below it is CRUD project.
 
 https://github.com/jaimehernan95/qcprojectv1/
 
+## @ 2020 - april 05. minimist bug  fixed
+source: https://www.npmjs.com/package/minimist
 
-
+install
+With npm do:
+npm install minimist
+--------- Bug Fixed line ends here ----------
